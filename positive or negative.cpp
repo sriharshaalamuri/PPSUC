@@ -8,8 +8,4 @@ int main()
 	else
 	printf("the num is negative");
 	return 0;
-	
-	
-	
-	
 }
